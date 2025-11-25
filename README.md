@@ -78,7 +78,7 @@ print("Saved to", model_path)
 ~
 
 
-### OUTPUT:
+## OUTPUT:
 
  MODEL SEQUENTIAL
 <img width="810" height="434" alt="image" src="https://github.com/user-attachments/assets/f51f06d0-db35-4dff-8edb-677689c1f7bc" />
@@ -86,5 +86,7 @@ print("Saved to", model_path)
 <img width="815" height="120" alt="image" src="https://github.com/user-attachments/assets/540ce96d-b6c4-40a1-9f77-63afe0599975" />
  TEST ACCURACY
 <img width="811" height="165" alt="image" src="https://github.com/user-attachments/assets/16576a33-fc0c-4918-b879-0f2779630a0b" />
-### RESULT:
+
+
+## RESULT:
 Thus, the Build-and-deploy-your-own-deep-neural-network-on-a-website-using-tensor-flow is successfully executed.
