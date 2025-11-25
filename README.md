@@ -30,7 +30,8 @@ Upload all files (HTML, JS, CSS, and model folder) to a hosting platform such as
 Name: SAMEENA J
 
 Register Number:2305002019
-~~~python
+```
+python
 import tensorflow as tf
 from tensorflow.keras import layers, models
 from tensorflow.keras.datasets import mnist
@@ -74,8 +75,7 @@ os.makedirs(out_dir, exist_ok=True)
 model_path = os.path.join(out_dir, "my_model.keras")
 model.save(model_path)  # SavedModel dir
 print("Saved to", model_path)
-
-~
+```
 
 
 ## OUTPUT:
